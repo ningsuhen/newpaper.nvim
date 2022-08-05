@@ -22,7 +22,7 @@ function M.setup(config)
         blue                 = "#0087AF", -- color12
         magenta              = "#D7005F", -- color13
         aqua                 = "#AFD7FF", -- color14
-        white                = "#F1F3F2", -- color15
+        white                = "#FFFFFF", -- color15
         none                 = "NONE",
 
         -- Other colors
